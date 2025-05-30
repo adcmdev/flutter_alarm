@@ -53,6 +53,8 @@
                 android:text="@string/text_accept"
                 android:textAllCaps="false"
                 android:textColor="@color/action_text"
+                android:drawableStart="@drawable/ic_notification"
+                android:drawablePadding="8dp"
                 android:layout_marginStart="@dimen/base_margin_half"
                 android:layout_marginEnd="@dimen/base_margin_half" />
         </LinearLayout>
